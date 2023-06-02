@@ -21,7 +21,7 @@ This is a Node.js project that utilizes the Express library for managing recipes
 - Create a new database. (I used sqlite)
 - Update the database connection details in the `.env` file.
 5. Start the application:
-6. Access the application in your browser at `http://localhost:3000`.
+6. Access the application in your browser at `http://localhost:8080`.
 
 ## Usage
 
